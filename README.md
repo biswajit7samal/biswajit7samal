@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Biswajit Samal</h1>
 <h3 align="center">A 19 year old boy who always craves for technology,Biswajit Samal,was a student of St.Stephen’sSchool Budge Budge and he graduated high school (Grade XII)in 2020(PCMB). Now he is pursuing a Dual Degree(B.Tech+ M.Tech Programme) majoring in the Department Of Civil Engineering(B.Tech) & Structural Engineering (M.Tech) from the prestigious Veer Surendra Sai University of Technology( formerly University College of Engineering, Burla).I like exploring new things and learning about new stuufs related to technology. I am a Technology Fanatic with a great interest in Machine Learning, Artificial Intelligence and Web Designing</h3>
 
@@ -40,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit7samal&show_icons=true&locale=en&layout=compact" alt="biswajit7samal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit7samal&show_icons=true&locale=en" alt="biswajit7samal" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=biswajit7samal&show_icons=true&locale=en" alt="biswajit7samal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit7samal&" alt="biswajit7samal" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit7samal&" alt="biswajit7samal" /></p>
