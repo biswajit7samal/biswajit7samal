@@ -1,3 +1,4 @@
+![107089523_588373718763288_483066778182944229_n](https://user-images.githubusercontent.com/83175232/118329294-6dc4db80-b524-11eb-97eb-9abcf70e8b55.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Biswajit Samal</h1>
@@ -45,3 +46,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=biswajit7samal&show_icons=true&locale=en" alt="biswajit7samal" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit7samal&" alt="biswajit7samal" /></p>
+
+
